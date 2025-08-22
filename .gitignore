@@ -204,3 +204,5 @@ __marimo__/
 
 .DS_Store
 data/
+analysis_output/
+demo_output/
